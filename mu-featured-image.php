@@ -9,7 +9,7 @@ Author URI:  http://www.twitter.com/igorbenic
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Domain Path: /languages
-Text Domain: ibenic_mufimg
+Text Domain: ibenic_mufimg 
 */
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
